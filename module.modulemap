@@ -1,0 +1,6 @@
+framework module microecc {
+    umbrella header "uECC.h"
+    
+    export *
+    module * { export * }
+}
