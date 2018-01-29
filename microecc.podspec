@@ -17,7 +17,7 @@ TODO: Add long description of the pod here.
 
   s.source_files = '*.{c,h,inc}'
   s.public_header_files = 'uECC.h'
-  s.module_map = 'module.modulemap'
+#  s.module_map = 'module.modulemap'
   
 end
 
